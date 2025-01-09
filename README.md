@@ -13,6 +13,10 @@
 - https://github.com/pywavefront/PyWavefront (python utilities to prepare .obj files for rendering)
 - https://github.com/realitix/pyshaderc (tool to compile glsl to spir-v shader in python)
 - https://github.com/kovacsv/Online3DViewer (viewer for the browser in javascript)
+- https://github.com/wgois/OIS (object oriented input system)
+- https://github.com/JohnSundell/ImagineEngine (engine in swift)
+- https://github.com/altseed/LLGI
+- https://github.com/bkaradzic/bgfx (rendering library)
 
 # cocos stuff
 - https://github.com/cocos2d/cocos2d-x (engine for ios,android, metal --- but deprecated --- alternative is axmol https://github.com/axmolengine/axmol)
