@@ -31,6 +31,7 @@
 - https://github.com/litoarias/scenekittest (scenekit test)
 - https://github.com/niftools/pyffi (python module for manipulating binary data tipical used in games)
 - https://github.com/digint/tinyfsm (finite state machine library)
+- https://github.com/DCubix/Tiny-Game-Framework (game framework for small games 2d/3d with lua. good example)
 
 # cocos stuff
 - https://github.com/cocos2d/cocos2d-x (engine for ios,android, metal --- but deprecated --- alternative is axmol https://github.com/axmolengine/axmol)
