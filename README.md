@@ -24,6 +24,8 @@
 - https://github.com/marcelogdeandrade/PythonCompiler (about the post "create our own programming language")
 - https://github.com/Szaq/BinarySwift (code about read/write binary)
 - https://github.com/SaschaWillems/Vulkan-glTF-PBR (phisically based rendering code)
+- https://github.com/TranscryptOrg/Transcrypt (compile python into javascript)
+- https://github.com/mtrebi/memory-allocators (memory allocators code, nice and clean explained!)
 
 # cocos stuff
 - https://github.com/cocos2d/cocos2d-x (engine for ios,android, metal --- but deprecated --- alternative is axmol https://github.com/axmolengine/axmol)
