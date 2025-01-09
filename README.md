@@ -26,6 +26,11 @@
 - https://github.com/SaschaWillems/Vulkan-glTF-PBR (phisically based rendering code)
 - https://github.com/TranscryptOrg/Transcrypt (compile python into javascript)
 - https://github.com/mtrebi/memory-allocators (memory allocators code, nice and clean explained!)
+- https://github.com/s0md3v/hardcodes (tools to find text strings in code)
+- https://github.com/wo1fsea/PyTexturePacker (tool to create atlas files with python)
+- https://github.com/litoarias/scenekittest (scenekit test)
+- https://github.com/niftools/pyffi (python module for manipulating binary data tipical used in games)
+- https://github.com/digint/tinyfsm (finite state machine library)
 
 # cocos stuff
 - https://github.com/cocos2d/cocos2d-x (engine for ios,android, metal --- but deprecated --- alternative is axmol https://github.com/axmolengine/axmol)
