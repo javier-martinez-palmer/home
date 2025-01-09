@@ -11,6 +11,7 @@
 - https://github.com/a2flo/floor (compute graphics toolchain)
 - https://github.com/cocoatoucher/Glide (spriteKit and gameplayKit engine)
 - https://github.com/pywavefront/PyWavefront (python utilities to prepare .obj files for rendering)
+- https://github.com/realitix/pyshaderc (tool to compile glsl to spir-v shader in python)
 
 # cocos stuff
 - https://github.com/cocos2d/cocos2d-x (engine for ios,android, metal --- but deprecated --- alternative is axmol https://github.com/axmolengine/axmol)
