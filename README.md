@@ -9,6 +9,7 @@
 - https://github.com/armory3d/armory (engine for blender)
 - https://github.com/Ravbug/sdl3-sample (sdl3 sample applications)
 - https://github.com/cocos2d/cocos2d-x (engine for ios,android, metal --- but deprecated --- alternative is axmol https://github.com/axmolengine/axmol)
+- https://github.com/cocos2d-x/fbx-conv (utilities to convert fbx to cocos engine format)
 - https://github.com/a2flo/floor (compute graphics toolchain)
 - https://github.com/cocoatoucher/Glide (spriteKit and gameplayKit engine)
 - https://github.com/pywavefront/PyWavefront (python utilities to prepare .obj files for rendering)
