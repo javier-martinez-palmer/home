@@ -6,6 +6,7 @@
 - https://github.com/assimp/assimp
 - https://github.com/nothings/stb (single file libraries)
 - https://github.com/floooh/sokol (minimal standalone header libraries VERY GOOD)
+- https://github.com/floooh/sokol-samples (sokol samples)
 - https://github.com/mosra/magnum (engine android, ios, opengl)
 - https://github.com/mosra/corrade (set of low level libraries base of magnum engine)
 - https://github.com/armory3d/armory (engine for blender)
@@ -28,10 +29,17 @@
 - https://github.com/mtrebi/memory-allocators (memory allocators code, nice and clean explained!)
 - https://github.com/s0md3v/hardcodes (tools to find text strings in code)
 - https://github.com/wo1fsea/PyTexturePacker (tool to create atlas files with python)
+- https://github.com/pavle-goloskokovic/texture-unpacker (atlas unpacker utility)
 - https://github.com/litoarias/scenekittest (scenekit test)
 - https://github.com/niftools/pyffi (python module for manipulating binary data tipical used in games)
 - https://github.com/digint/tinyfsm (finite state machine library)
 - https://github.com/DCubix/Tiny-Game-Framework (game framework for small games 2d/3d with lua. good example)
+
+# ui
+- https://github.com/rxi/microui
+- https://github.com/nicbarker/clay
+- https://github.com/Immediate-Mode-UI/Nuklear
+- https://github.com/ocornut/imgui (very popular)
 
 # cocos stuff
 - https://github.com/cocos2d/cocos2d-x (engine for ios,android, metal --- but deprecated --- alternative is axmol https://github.com/axmolengine/axmol)
