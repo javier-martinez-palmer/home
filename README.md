@@ -1,5 +1,10 @@
 # home
 
+# blender
+- https://github.com/BlenderKit/blenderkit
+- https://github.com/armory3d/armory (engine for blender)
+- https://github.com/krljg/lsystem (small addon for blender)
+
 # refs
 - https://github.com/godotengine/godot
 - https://github.com/oddbitdev/hexTap (game made in kivy)
@@ -9,7 +14,6 @@
 - https://github.com/floooh/sokol-samples (sokol samples)
 - https://github.com/mosra/magnum (engine android, ios, opengl)
 - https://github.com/mosra/corrade (set of low level libraries base of magnum engine)
-- https://github.com/armory3d/armory (engine for blender)
 - https://github.com/Ravbug/sdl3-sample (sdl3 sample applications)
 - https://github.com/a2flo/floor (compute graphics toolchain)
 - https://github.com/cocoatoucher/Glide (spriteKit and gameplayKit engine)
@@ -21,7 +25,6 @@
 - https://github.com/altseed/LLGI
 - https://github.com/bkaradzic/bgfx (rendering library)
 - https://github.com/DCubix/Mikro (small lua platform engine)
-- https://github.com/krljg/lsystem (small addon for blender)
 - https://github.com/marcelogdeandrade/PythonCompiler (about the post "create our own programming language")
 - https://github.com/Szaq/BinarySwift (code about read/write binary)
 - https://github.com/SaschaWillems/Vulkan-glTF-PBR (phisically based rendering code)
